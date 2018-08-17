@@ -25,6 +25,6 @@ eventBus.off('🌝', listener);
 eventBus.clear('🌝');
 
 // 移除所有事件和监听器
-eventBus.clear('');
+eventBus.clear();
 
 ```
