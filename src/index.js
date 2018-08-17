@@ -1,6 +1,6 @@
-// https://github.com/sindresorhus/emittery/blob/master/index.js
 // https://aotu.io/notes/2017/01/19/wxapp-event/index.html
 // https://segmentfault.com/a/1190000008895441
+// https://github.com/sindresorhus/emittery/blob/master/index.js
 // https://juejin.im/post/5ac2fb886fb9a028b86e328c
 
 const eventsMap = new WeakMap();
